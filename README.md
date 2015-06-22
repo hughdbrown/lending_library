@@ -13,3 +13,6 @@ marks and that the numbers drop off after those peaks.
 Q. What information from the box plot isn't readily apparent in the histogram?
 A. You can see more clearly where the media is. You can also make out the
 25th and 75th quantiles clearly.
+
+Q. Be able to describe the result and how it compares with the values from the "Amount.Funded.By.Investors".
+A. "Amount.Funded.By.Investors" is generally less than "Amount.Requested" but not always. See last graph.
