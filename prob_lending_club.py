@@ -12,7 +12,7 @@ loansData.dropna(inplace=True)
 
 column_amt_funded_by_investors = 'Amount.Funded.By.Investors'
 column_amt_requested = "Amount.Requested"
-column = column_amt_funded_by_investors
+column = column_amt_requested
 
 # Generate a box plot for the loan amounts 
 loansData.boxplot(column=column)
