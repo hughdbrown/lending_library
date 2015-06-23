@@ -2,6 +2,8 @@ Setup
 -----
 Run with `python prob_lending_club.py`.
 
+However, the code in the ipython notebook is more up to date. Try: `ipython notebook lending_library.ipynb`
+
 Homework
 --------
 
@@ -11,7 +13,7 @@ You can also see that there are more incidences of funding at the 5000-10000-150
 marks and that the numbers drop off after those peaks.
 
 Q. What information from the box plot isn't readily apparent in the histogram?
-A. You can see more clearly where the media is. You can also make out the
+A. You can see more clearly where the median is. You can also make out the
 25th and 75th quantiles clearly.
 
 Q. Be able to describe the result and how it compares with the values from the "Amount.Funded.By.Investors".
