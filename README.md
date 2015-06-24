@@ -4,6 +4,8 @@ Run with `python prob_lending_club.py`.
 
 However, the code in the ipython notebook is more up to date. Try: `ipython notebook lending_library.ipynb`
 
+The ipython notebook can also be viewed at this url: `http://nbviewer.ipython.org/github/hughdbrown/lending_library/blob/master/lending_library.ipynb`
+
 Homework
 --------
 
